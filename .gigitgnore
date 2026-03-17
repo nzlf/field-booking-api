@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+field_booking.db
+.env
+.venv/
+venv/
